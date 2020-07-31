@@ -1,0 +1,24 @@
+{
+  "name": "contact-me",
+  "version": "1.0.0",
+  "description": "Contact function for website",
+  "main": "index.js",
+  "dependencies": {
+    "clasp": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "devstknco@gmail.com",
+  "license": "ISC",
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devstknco/contact-me.git"
+  },
+  "bugs": {
+    "url": "https://github.com/devstknco/contact-me/issues"
+  },
+  "homepage": "https://github.com/devstknco/contact-me#readme"
+}
